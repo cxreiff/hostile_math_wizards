@@ -1,6 +1,6 @@
 hostilemathwizards
 =====
 
-Simple text adventure written in C++.
+Simple text adventure written in C++ — ported to javascript!
 
-Project for a high school Calculus class taught by Cindy Duim.
+Original C++ was a project for a high school Calculus class taught by Cindy Duim.
