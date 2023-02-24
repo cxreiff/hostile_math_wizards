@@ -1,4 +1,4 @@
-hostilemathwizards
+hostile_math_wizards
 =====
 
 Simple text adventure written in C++.
